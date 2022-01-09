@@ -4,8 +4,8 @@ body {
 .esquerda {
     background-color: red;
     float: left; /* deixar div lado a lado */
-    width: 50%; /* proporção de ocupação na vertical */
-    height: 100vh; /* preenche toda a área na vertical */
+    width: 50%; /* proporção de ocupação na horizontal */
+    height: 100vh; /* proporção de ocupação na vertical */
 }
 .direita {
     background-color: green;
