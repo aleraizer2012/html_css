@@ -1,0 +1,15 @@
+body {
+    margin: 0; /* faz colar na borda do navegador */
+}
+.esquerda {
+    background-color: red;
+    float: left; /* deixar div lado a lado */
+    width: 50%; /* proporção de ocupação na vertical */
+    height: 100vh; /* preenche toda a área na vertical */
+}
+.direita {
+    background-color: green;
+    float: left; /* deixar div lado a lado */
+    width: 50%;
+    height: 100vh;
+}
